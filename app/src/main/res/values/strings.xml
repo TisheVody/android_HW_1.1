@@ -2,4 +2,9 @@
     <string name="app_name">Netology_Android_HW_1</string>
     <string name="hello">Hello World!</string>
     <string name="nMedia">NMedia!</string>
+    <string name="description_post_author_avatar">Post author avatar</string>
+    <string name="description_post_menu">Post menu</string>
+    <string name="description_post_like">Post Like</string>
+    <string name="description_post_share">Post Share</string>
+    <string name="description_post_views">Post Views</string>
 </resources>
